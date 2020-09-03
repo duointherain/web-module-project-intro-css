@@ -1,0 +1,183 @@
+
+
+
+body {
+  font-family: 'Roboto Mono', monospace;
+    margin: 2em;
+    width:600;
+    
+  }
+ 
+
+ h1{
+    font-family: 'Chelsea Market', cursive;
+    margin-bottom: 2%;
+    text-align: center;
+ }
+ h2, h3 {
+  font-family: 'Roboto Mono', monospace;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+
+ header{
+     display: inline-block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 100%;
+     padding: 10px;
+     height: auto;
+ }
+.container{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    text-align: center;
+  
+    
+}
+
+.container header nav a{
+
+    display: inline-block;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
+#middle{
+    background-color: #DDB9A3;
+    width: 50%;
+    color: white;
+    padding: 1%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menuOne{
+    margin-right: 10%;
+   
+    color:white
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    text-decoration:none;
+    background-color: #FF764E;
+    
+   
+
+}
+#menuTwo{
+    text-decoration:none;
+    background-color: #5ED3EB;
+    color: white
+    
+   
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    margin-right: 10%
+}
+#menuThree{
+    margin: 0 10px;
+    color: white
+   
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    text-decoration:none;
+    background-color: #FFCD69;
+}
+a:link {
+    text-decoration: none;
+    color:white
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color:whitesmoke
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color:gray
+  }
+  
+  a:active {
+    text-decoration: underline;
+    color:lightgray
+  }
+  #camper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    padding: 2%;
+    width: 25%;
+    height: 25%;
+    
+     
+  }
+  #footer{
+    height: 250px;
+    width: 100%;
+    margin: 2%;
+  }
+  #fireText{
+      text-align: center;
+  }
+  #camping{
+      text-align: center;
+      padding: 2%;
+  }
+  #blaze{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+
+  }
+  #mountainOne{
+    height: 60%;
+    width: 60%;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 2%;
+    
+    
+   
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+  }
+.bold{
+    font-weight: 600;
+}
+#masthead{
+    display: inline-block;
+    
+    width: 70%;
+}
+#lastTry{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+
+footer{
+  background: #F9E7DC;
+}

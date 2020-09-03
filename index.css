@@ -68,14 +68,14 @@ body {
     display: inline-block;
     border-radius: 20px;
     text-decoration:none;
-    background-color: #FF754F;
+    background-color: #FF764E;
     
    
 
 }
 #menuTwo{
     text-decoration:none;
-    background-color: #5FD3ED;
+    background-color: #5ED3EB;
     color: white
     
    
@@ -94,7 +94,7 @@ body {
     display: inline-block;
     border-radius: 20px;
     text-decoration:none;
-    background-color: #FFCD6A;
+    background-color: #FFCD69;
 }
 a:link {
     text-decoration: none;
@@ -176,4 +176,8 @@ img {
     display: inline-block;
     text-align: center;
     width: 20%;
+}
+
+footer{
+  background: #F9E7DC;
 }

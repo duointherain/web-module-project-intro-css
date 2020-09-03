@@ -61,7 +61,7 @@ body {
 }
 #menuOne{
     margin-right: 10%;
-    display: flex;
+   
     color:white
     border: 1px solid lightgray;
     padding: 20px;
@@ -78,7 +78,7 @@ body {
     background-color: #5FD3ED;
     color: white
     
-    display: flex;
+   
     border: 1px solid lightgray;
     padding: 20px;
     display: inline-block;
@@ -88,7 +88,7 @@ body {
 #menuThree{
     margin: 0 10px;
     color: white
-    display: flex;
+   
     border: 1px solid lightgray;
     padding: 20px;
     display: inline-block;
